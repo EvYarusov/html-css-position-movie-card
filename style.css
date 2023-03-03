@@ -20,11 +20,13 @@ background-color:olive;
     top: 50;
     left: 50;
 }
-.grade {
+.grade, .tickets {
     color: white;
     font-size: 40px;
     padding: 15px;
-    width: fit-content;
+    width: fit-content;    
+}
+.grade {
     position: absolute;
     top: 70px;
     left: 30px;
@@ -34,4 +36,10 @@ background-color:olive;
 }
 .negative {
     background-color: rgb(255,0,0);
+}
+.tickets {
+    background-color: rgb(255,86,0);
+    position: absolute;
+    bottom: 50px;
+    right: 30px;
 }
