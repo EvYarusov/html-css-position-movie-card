@@ -1,1 +1,18 @@
-/* ваш код */
+* {
+background-color:olive;
+}
+.websiteTitle {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 50px;
+    text-transform:uppercase;
+    text-align: center;
+    color: rgb(141, 24, 33);       
+}
+.poster {
+    width: fit-content;
+    height: fit-content;
+    margin-left: 180px;    
+}
+#movie1, #movie2 {
+    padding: 28px;
+}
