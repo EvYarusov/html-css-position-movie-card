@@ -15,10 +15,14 @@ background-color:olive;
     padding: 10px;
     position: relative; 
 }
+#movie1 {
+    position: relative;
+    left: 150px;
+}
 #movie2 {
     position: relative;
-    top: 50;
-    left: 50;
+    top: -877px;
+    left: 900px;
 }
 .grade, .tickets {
     color: white;
